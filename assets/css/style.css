@@ -7,6 +7,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #758694;
+    height: 100dvh;
+    width: 100dvw;
 }
 
 header{
@@ -73,7 +75,7 @@ footer{
     align-items: center;
 
     & > nav.message{
-        
+
     }
     
     & > nav.icons{
