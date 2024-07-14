@@ -9,6 +9,7 @@ body{
     background-color: #758694;
     height: 100dvh;
     width: 100dvw;
+
 }
 
 header{
@@ -67,7 +68,27 @@ header{
 }
 
 section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
+    & > nav.title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        padding: 1rem;
+        background-color: #EFF7F8;
+        width: 100dvw;
+
+        & > h2{
+            color: #2F3645;
+            font-size: 2rem;
+            font-weight: 600;
+            text-align: center;
+        }
+    }
 }
 
 footer{
