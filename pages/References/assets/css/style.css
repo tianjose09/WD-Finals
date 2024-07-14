@@ -533,7 +533,7 @@ section.waka{
         display: flex;
         flex-direction: row;
         align-items: center;
-        background-color: #758694;
+        background-color: #2F3645;
 
         & > nav{
             display: flex;
@@ -560,7 +560,7 @@ section.waka{
                 }
 
                 & > h2{
-                    color: #758694;
+                    color: #2F3645;
                     font-size: 1rem;
                     font-weight: 600;
                     text-align: center;
