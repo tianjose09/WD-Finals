@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This repository is for the final project.  (Optional)
+  This repository is for the final project.
 </div>
 
 <br />
